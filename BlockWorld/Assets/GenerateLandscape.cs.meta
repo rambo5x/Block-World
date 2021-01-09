@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 062944b966cb0874a84dd37cc8743606
+timeCreated: 1491696558
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - snowBlock: {fileID: 1326938088136650, guid: 04eba5d993a1b0a4888dc2c34fd6cdec,
+      type: 2}
+  - grassBlock: {fileID: 1683590130495570, guid: c435e280e084e044684e54faef69a147,
+      type: 2}
+  - sandBlock: {fileID: 1349751640347518, guid: d6b876a30896d6046b6e8c2faa9a0f34,
+      type: 2}
+  - dirtBlock: {fileID: 1698530587330168, guid: 5b1bb25d7d1b2584eac7937d04ad569d,
+      type: 2}
+  - stoneBlock: {fileID: 1052683055100004, guid: bdfec02a2fc2b0346b8b2f83c2774fb1,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
